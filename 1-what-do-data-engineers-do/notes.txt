@@ -1,11 +1,21 @@
-As a data engineer hired to enable data analytics, I will first engage thoroughtly with stakeholders - business analysts, SMES, PMs, end-users, and so on. This is to understand the organizational goals, data sources, and specific reporting and anlytical needs. I will also ask for more details about the type of data needed, how the data will be used, and if there are any specific metrics they are interested in. All these will help to align data requirements and business objects
+As a data engineer hired to enable data analytics, I will first engage thoroughtly with stakeholders - business analysts, 
+SMES, PMs, end-users, and so on. This is to understand the organizational goals, data sources, and specific reporting and 
+anlytical needs. I will also ask for more details about the type of data needed, how the data will be used, and if there 
+are any specific metrics they are interested in. All these will help to align data requirements and business objects
 
 My approach/steps to gathering requirements will be as follows:
-1. End-user identification. This helps to ensure the appropriate solution is designed to meet expectation by understanding their capabilites and preferences.
-2. Assist in proper requirement definition. Through unveiling end-user objectives, preferences, and pain points by engaging them, requirements can be extracted an defined or even refined. This can be achieved by asking question with regards to business impact of the data, what the data represent, data origin, data pipeline frequency, need for historic data, data caveats, data access, data quality, data output.
-3. End-user validation. Providing end-users with prototype data solutions/sample data to ensure that the business objectives/metrics are met. This also helps to unveil new requirements/changes.
-4. Iterative delivery. This is to ensure continuous, short and regular end-user feedback and engagement simplifying the handling of requirement changes.
-5. Change management and handling for requirement and or new features. This involves the creation of process to manage requirement changes and educate users on requesting new features/changes. this help prevent scope creep and ensures timely delivery.
+1. End-user identification. This helps to ensure the appropriate solution is designed to meet expectation by understanding
+their capabilites and preferences.
+2. Assist in proper requirement definition. Through unveiling end-user objectives, preferences, and pain points by engaging 
+them, requirements can be extracted an defined or even refined. This can be achieved by asking question with regards to 
+business impact of the data, what the data represent, data origin, data pipeline frequency, need for historic data, data 
+caveats, data access, data quality, data output.
+3. End-user validation. Providing end-users with prototype data solutions/sample data to ensure that the business 
+objectives/metrics are met. This also helps to unveil new requirements/changes.
+4. Iterative delivery. This is to ensure continuous, short and regular end-user feedback and engagement simplifying the 
+handling of requirement changes.
+5. Change management and handling for requirement and or new features. This involves the creation of process to manage 
+requirement changes and educate users on requesting new features/changes. this help prevent scope creep and ensures timely delivery.
 
 Reerences
 i. Technical Requirements Gathering, ChatGPT
